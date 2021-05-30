@@ -6,6 +6,8 @@ https://www.c-sharpcorner.com/UploadFile/damubetha/solid-principles-in-C-Sharp/
 -----------------------------------------------
 https://www.youtube.com/watch?v=Rqh8p3k7M00&list=PLfDx4cQoUNOZz7d8Pk5Mhv-7gh_ofegbG
 -----------------------------------------------
+https://kharashi.me/posts/solid-principles/
+-----------------------------------------------
 5 principles
 ----------------
 single responsibility principles
